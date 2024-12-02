@@ -1,8 +1,8 @@
 #include <iostream>
 #include <fstream>
-#include <cmath>
 #include <vector>
-#include <algorithm>
+#include <cmath> // abs
+#include <algorithm> // sort
 
 int main() {
     std::ifstream file("day1input.txt");
